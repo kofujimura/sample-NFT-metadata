@@ -1,6 +1,6 @@
 {
-  "name": "ToCToC",
-  "image": "https://qk8h4n.csb.app/img/nft1.png",
-  "external_url": "https://qk8h4n.csb.app/",
-  "description": "The test metadata for ToCToC"
+  "name": "Minter certificate",
+  "image": "https://kofujimura.github.io/sample-NFT-metadata/nft1.png",
+  "external_url": "https://kofujimura.github.io/sample-NFT-metadata/",
+  "description": "A sample of NFT that minter must have."
 }
