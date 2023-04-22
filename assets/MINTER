@@ -1,6 +1,6 @@
 {
   "name": "Minter certificate",
-  "image": "https://kofujimura.github.io/sample-NFT-metadata/minter.png",
+  "image": "https://kofujimura.github.io/sample-NFT-metadata/img/minter.png",
   "external_url": "https://kofujimura.github.io/sample-NFT-metadata/",
   "description": "A sample of NFT that minter must have."
 }
