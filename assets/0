@@ -1,5 +1,5 @@
 {
-  "name": "Minter certificate",
+  "name": "MyToken",
   "image": "https://kofujimura.github.io/sample-NFT-metadata/img/mytoken.png",
   "external_url": "https://kofujimura.github.io/sample-NFT-metadata/",
   "description": "A sample of token controlled by tokens."
