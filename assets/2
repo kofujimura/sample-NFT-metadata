@@ -1,5 +1,5 @@
 {
-  "name": "MyToken",
+  "name": "Control Token 2",
   "image": "https://kofujimura.github.io/sample-NFT-metadata/img/burner.png",
   "external_url": "https://kofujimura.github.io/sample-NFT-metadata/",
   "description": "A sample of token controlled by ERC1155 tokens."
