@@ -1,6 +1,6 @@
 {
   "name": "MyToken",
-  "image": "https://kofujimura.github.io/sample-NFT-metadata/img/mytoken.png",
+  "image": "https://kofujimura.github.io/sample-NFT-metadata/img/burner.png",
   "external_url": "https://kofujimura.github.io/sample-NFT-metadata/",
-  "description": "A sample of token controlled by tokens."
+  "description": "A sample of token controlled by ERC1155 tokens."
 }
